@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<title></title>
+	<style>
+	  .device {
+	    margin: 10px auto;
+	    border:1px solid black;
+	  }
+	</style>
+  </head>
+  <body>
+	{% for d in devices %}
+	<div id="device-{{loop.index}}" class="device">
+	  <div>{{d.id}}</div>
+	  <div>{{d.name}}</div>
+	  <div>{{d.rssi}}</div>
+	</div>
+	{% endfor %}
+  </body>
+</html>

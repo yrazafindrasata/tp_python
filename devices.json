@@ -1,0 +1,25 @@
+{
+  "30:23:1C:D0:83:86": {
+    "name": "R-Music Voxy",
+    "rssi": -55
+  },
+  "5E:71:0D:09:CA:8B": {
+    "name": "Jelly-Pro",
+    "rssi": -54
+  },
+  "68:A3:78:26:AA:67": {
+    "name": "Freebox Player Mini",
+    "rssi": -67
+  },
+  "24:FC:E5:C0:74:2E": {
+    "name": "[TV] Samsung Frame Series (43)"
+  },
+  "30:15:01:21:23:92": {
+    "name": "NeoMatrix",
+    "rssi": -72
+  },
+  "40:EF:4C:75:F8:4D": {
+    "name": "KEF EGG",
+    "rssi": -77
+  }
+}
